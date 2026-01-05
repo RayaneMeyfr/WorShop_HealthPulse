@@ -40,7 +40,5 @@ namespace ConsultationService.Infrastructure.Persistance
 
             return Task.FromResult<Consultation?>(existing);
         }
-
-        
     }
 }
