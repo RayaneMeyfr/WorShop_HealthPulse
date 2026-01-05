@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConsultationService/ConsultationService.csproj" Id="e5e063a7-0a09-4ff3-988e-9c8765a38183" />
+  <Project Path="HealthDashboardService/HealthDashboardService.csproj" Id="552d8a6e-12e8-432f-b6ac-464c86839331" />
+  <Project Path="PatientService/PatientService.csproj" />
+  <Project Path="PrescriptionService/PrescriptionService.csproj" Id="34979d20-161a-455c-a65d-3869be27be71" />
+</Solution>

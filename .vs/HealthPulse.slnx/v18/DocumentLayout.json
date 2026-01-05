@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34979D20-161A-455C-A65D-3869BE27BE71}|PrescriptionService\\PrescriptionService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\prescriptionservice\\prescriptionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34979D20-161A-455C-A65D-3869BE27BE71}|PrescriptionService\\PrescriptionService.csproj|solutionrelative:prescriptionservice\\prescriptionservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34979D20-161A-455C-A65D-3869BE27BE71}|PrescriptionService\\PrescriptionService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\prescriptionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34979D20-161A-455C-A65D-3869BE27BE71}|PrescriptionService\\PrescriptionService.csproj|solutionrelative:prescriptionservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D8A6E-12E8-432F-B6AC-464C86839331}|HealthDashboardService\\HealthDashboardService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\healthdashboardservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{552D8A6E-12E8-432F-B6AC-464C86839331}|HealthDashboardService\\HealthDashboardService.csproj|solutionrelative:healthdashboardservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E063A7-0A09-4FF3-988E-9C8765A38183}|ConsultationService\\ConsultationService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\consultationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5E063A7-0A09-4FF3-988E-9C8765A38183}|ConsultationService\\ConsultationService.csproj|solutionrelative:consultationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552D8A6E-12E8-432F-B6AC-464C86839331}|HealthDashboardService\\HealthDashboardService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\healthdashboardservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{552D8A6E-12E8-432F-B6AC-464C86839331}|HealthDashboardService\\HealthDashboardService.csproj|solutionrelative:healthdashboardservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\patientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\patientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|c:\\users\\rayan\\documents\\workspace\\c#\\workshophealthpulse\\healthpulse\\patientservice\\patientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{344993C5-DEF5-2B13-E178-D4493A47F273}|PatientService\\PatientService.csproj|solutionrelative:patientservice\\patientservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrescriptionService",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PrescriptionService\\PrescriptionService.csproj",
+              "RelativeDocumentMoniker": "PrescriptionService\\PrescriptionService.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PrescriptionService\\PrescriptionService.csproj",
+              "RelativeToolTip": "PrescriptionService\\PrescriptionService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T08:32:13.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\ConsultationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConsultationService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\ConsultationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConsultationService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:31:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PrescriptionService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PrescriptionService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PrescriptionService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PrescriptionService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:30:50.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\HealthDashboardService\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthDashboardService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\HealthDashboardService\\appsettings.json",
+              "RelativeToolTip": "HealthDashboardService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:30:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatientService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatientService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:29:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\appsettings.json",
+              "RelativeToolTip": "PatientService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:29:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\HealthDashboardService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HealthDashboardService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\HealthDashboardService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HealthDashboardService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-05T08:29:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientService.csproj",
+              "DocumentMoniker": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\PatientService.csproj",
+              "RelativeDocumentMoniker": "PatientService\\PatientService.csproj",
+              "ToolTip": "C:\\Users\\Rayan\\Documents\\WorkSpace\\C#\\WorkShopHealthPulse\\HealthPulse\\PatientService\\PatientService.csproj",
+              "RelativeToolTip": "PatientService\\PatientService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-05T08:22:47.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
