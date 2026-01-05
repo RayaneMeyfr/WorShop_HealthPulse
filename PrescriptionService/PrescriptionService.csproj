@@ -19,4 +19,14 @@
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Api\Controllers\" />
+    <Folder Include="Application\DTOs\" />
+    <Folder Include="Application\Mappers\" />
+    <Folder Include="Application\Services\" />
+    <Folder Include="Domaine\Entities\" />
+    <Folder Include="Domaine\Ports\" />
+    <Folder Include="Infrastructure\Persistance\" />
+  </ItemGroup>
+
 </Project>

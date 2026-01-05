@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrescriptionService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365d0d30380c154a6e3faf4a84bfe95f0b06d751")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80cf9bbaca2f861b460d9cd294ac9243731170f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrescriptionService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrescriptionService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

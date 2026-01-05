@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -17,6 +17,16 @@
     <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="10.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="10.1.0" />
     <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="10.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Api\Controllers\" />
+    <Folder Include="Application\DTOs\" />
+    <Folder Include="Application\Mappers\" />
+    <Folder Include="Application\Services\" />
+    <Folder Include="Domaine\Entities\" />
+    <Folder Include="Domaine\Ports\" />
+    <Folder Include="Infrastructure\Persistance\" />
   </ItemGroup>
 
 </Project>
