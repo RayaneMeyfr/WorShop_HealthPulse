@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HealthDashboardService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365d0d30380c154a6e3faf4a84bfe95f0b06d751")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb31cbc39b5cff862213c0e787260654cccd3d60")]
 [assembly: System.Reflection.AssemblyProductAttribute("HealthDashboardService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HealthDashboardService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
